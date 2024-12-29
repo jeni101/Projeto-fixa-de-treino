@@ -1,0 +1,80 @@
+[
+    {
+        "ID": "EXERCICIO 1",
+        "Nome": "Puxada",
+        "Tipo": "Costas",
+        "Repeticoes": "3 x 10"
+    },
+    {
+        "ID": "EXERCICIO 2",
+        "Nome": "Corrida",
+        "Tipo": "Perna",
+        "Repeticoes": "3 x 15"
+    },
+    {
+        "ID": "EXERCICIO 3",
+        "Nome": "Puxada Alta",
+        "Tipo": "Costas",
+        "Repeticoes": "5 x 10"
+    },
+    {
+        "ID": "EXERCICIO 4",
+        "Nome": "Teste",
+        "Tipo": "Teste",
+        "Repeticoes": "Teste"
+    },
+    {
+        "ID": "EXERCICIO 5",
+        "Nome": "Eleva\u00e7\u00e3o Bilateral",
+        "Tipo": "Bra\u00e7o",
+        "Repeticoes": "3 x 10"
+    },
+    {
+        "ID": "EXERCICIO 6",
+        "Nome": "aaa",
+        "Tipo": "asd",
+        "Repeticoes": "gdc"
+    },
+    {
+        "ID": "EXERCICIO 7",
+        "Nome": "gwd",
+        "Tipo": "vdse",
+        "Repeticoes": "qwfdsa"
+    },
+    {
+        "ID": "EXERCICIO 8",
+        "Nome": "Bungas",
+        "Tipo": "Triceps",
+        "Repeticoes": "3 x 10"
+    },
+    {
+        "ID": "EXERCICIO 9",
+        "Nome": "assd,",
+        "Tipo": "avdas",
+        "Repeticoes": "aesfcas"
+    },
+    {
+        "ID": "EXERCICIO 10",
+        "Nome": "Peixe",
+        "Tipo": "Tenrinha",
+        "Repeticoes": "4 x 20"
+    },
+    {
+        "ID": "EXERCICIO 11",
+        "Nome": "Supero",
+        "Tipo": "Peito",
+        "Repeticoes": "3 x 15"
+    },
+    {
+        "ID": "EXERCICIO 12",
+        "Nome": "Polichinelo",
+        "Tipo": "Perna",
+        "Repeticoes": "5 x 15"
+    },
+    {
+        "ID": "EXERCICIO 13",
+        "Nome": "supino",
+        "Tipo": "peito",
+        "Repeticoes": "20 x 4"
+    }
+]
