@@ -1,0 +1,62 @@
+[
+    {
+        "ID": "EXERCICIO 1",
+        "Nome": "Puxada",
+        "Tipo": "Costas",
+        "Repeticoes": "3 x 10"
+    },
+    {
+        "ID": "EXERCICIO 3",
+        "Nome": "Puxada alta",
+        "Tipo": "Costas",
+        "Repeticoes": "5 x 10"
+    },
+    {
+        "ID": "EXERCICIO 5",
+        "Nome": "Eleva\u00e7\u00e3o Bilateral",
+        "Tipo": "Bra\u00e7o",
+        "Repeticoes": "3 x 10"
+    },
+    {
+        "ID": "EXERCICIO 5",
+        "Nome": "Leg Press 45\u00ba",
+        "Tipo": "Perna",
+        "Repeticoes": "4 x 12"
+    },
+    {
+        "ID": "EXERCICIO 6",
+        "Nome": "Supino",
+        "Tipo": "Peito",
+        "Repeticoes": "3 x 10"
+    },
+    {
+        "ID": "EXERCICIO 7",
+        "Nome": "Rosca Direta",
+        "Tipo": "Bra\u00e7o",
+        "Repeticoes": "4 x 10"
+    },
+    {
+        "ID": "EXERCICIO 8",
+        "Nome": "Eleva\u00e7\u00e3o Bilateral",
+        "Tipo": "Ombros",
+        "Repeticoes": "4 x 15"
+    },
+    {
+        "ID": "EXERCICIO 9",
+        "Nome": "Supino -45\u00b0",
+        "Tipo": "Peito",
+        "Repeticoes": "5 x 10"
+    },
+    {
+        "ID": "EXERCICIO 10",
+        "Nome": "Remada Sentada",
+        "Tipo": "Costas",
+        "Repeticoes": "3 x 10"
+    },
+    {
+        "ID": "EXERCICIO 10",
+        "Nome": "Puxada",
+        "Tipo": "Peito",
+        "Repeticoes": "20 x 4"
+    }
+]
