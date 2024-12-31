@@ -1,0 +1,28 @@
+{
+    "Perna": [
+        {
+            "Nome": "Legpress",
+            "Repeticoes": "3 x 15"
+        }
+    ],
+    "Peito": [
+        {
+            "Nome": "Supino",
+            "Repeticoes": "3 x 10"
+        },
+        {
+            "Nome": "Teste",
+            "Repeticoes": "3 x 10"
+        }
+    ],
+    "Ombro": [
+        {
+            "Nome": "Crucifixo",
+            "Repeticoes": "3 x 15"
+        },
+        {
+            "Nome": "Remada baixa",
+            "Repeticoes": "15 x 3"
+        }
+    ]
+}
