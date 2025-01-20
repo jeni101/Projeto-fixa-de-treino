@@ -31,7 +31,7 @@ e intuitiva por parte do usuario.
 
 1. Clone o repositório:
 
-   git clone https://github.com/seu-usuario/fixa-de-treino.git
+   git clone https://github.com/jeni101/Projeto-fixa-de-treino.git
 
 2. Execute o script principal:
    
